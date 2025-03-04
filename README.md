@@ -35,5 +35,5 @@ Which products are most popular for each occasion?
 
 ## Dashboard
 
-![Dashboard](https://github.com/user-attachments/assets/c1ac9f95-a852-4f9b-984d-a4363253accb)
+
 
