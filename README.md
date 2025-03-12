@@ -1,4 +1,4 @@
-# Ferns-and-Petals-Sales-Analysis
+# Ferns-and-Petals-Sales-Analysis | Excel
 # Project Objective
 
 This project aims to analyze the sales trends, customer behavior, and product performance of Ferns N Petals (FNP), a gifting platform specializing in occasion-based gifts. Using data-driven insights, we will explore:
